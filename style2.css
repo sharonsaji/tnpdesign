@@ -49,3 +49,39 @@
 .shadow-none {
     box-shadow: none!important;
 }
+.my-custom-scrollbar {
+position: relative;
+height: 500px;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+.edit{
+  padding-right: 7px;
+
+}
+.ed:hover{
+  color: green;
+}
+.delete{
+  padding-left: 3px;
+  padding-right:5px;
+
+  }
+ .del:hover{
+   color:red;
+ }
+
+.card-text{
+  color: #1a202c;
+}
+.card-title{
+  text-align: left;
+  font-weight: bold;
+  font: 25px Arial, sans-serif;
+    color: #1a202c;
+}
+.date{
+  padding-right: 70px;
+}
